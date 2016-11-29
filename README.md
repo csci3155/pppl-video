@@ -24,7 +24,7 @@ Be creative!
 
 Submit your script in this repository in the this root directory *and* on [moodle](https://moodle.cs.colorado.edu) the following files:
 
-- Script: [script.md](script.md) or [script.pdf](script.pdf) with your recording script (using either Markdown or a pdf). Please push a draft script by 7:00am on your presentation day.
+- Script: [script.md](script.md) or [script.pdf](script.pdf) with your recording script (using either Markdown or a pdf). Please push a draft script by 7:00am on your presentation day. We ask that you use H.264 for video and AAC for audio (see https://vimeo.com/help/compression to make it easier to share later).
 - Recording: [recording.mp4](recording.mp4) with your video recording. Please use this standard format.
 - Slides (if you use them in your recording): [slides.pptx](slides.pptx) or [slides.key](slides.key) or [slides.pdf](slides.pdf) with slides if you use slides for your screencast. Please push a set of draft slides by 7:00am on your presentation day if you plan to use slides for your practice talk. We will be using one laptop for practice presentations.
 
