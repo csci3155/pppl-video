@@ -3,7 +3,7 @@
 # Mini-Project: Spring 2017
 
 - Draft script due Monday, May 1, 2017
-- Final script and video due Saturday, May 6, 2016
+- Final script and video due Saturday, May 6, 2017
 
 ## Overview
 
