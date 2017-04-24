@@ -1,16 +1,16 @@
 # Principles and Practice in Programming Languages
 
-# Mini-Project: Fall 2016
+# Mini-Project: Spring 2017
 
-- Draft script due Friday, December 2, 2016
-- Final script and video due Friday, December 9, 2016
+- Draft script due Monday, May 1, 2017
+- Final script and video due Saturday, May 6, 2016
 
 ## Overview
 
 For the mini-project, you will develop a video/screencast tutorial with a team of three. The final deliverables for the mini-project will be
 
 1. A short, approximately 5 minute presentation on your topic to be given in class.
-2. A final script and materials for your video/screencast.
+2. A final script and materials for your video/screencast, submitted on Moodle.
 3. An approximately 10-15 minute video/screencast on your topic. The in-class presentation should be treated as a practice run to get feedback before creating the video/screencast.
 
 There will be two choices of topic for your mini-project:
