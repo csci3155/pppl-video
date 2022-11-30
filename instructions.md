@@ -31,7 +31,7 @@ And push the following files in this repository in the this root directory *and*
 
 - Script: [script.md](script.md) or [script.pdf](script.pdf) with your recording script (using either Markdown or a pdf)
 - Recording: [recording.mp4](recording.mp4) with your video recording. We ask that you use H.264 for video and AAC for audio (see https://vimeo.com/help/compression to make it easier to share later). Please use this standard format.
-- Slides (if you use them in your recording): [slides.pptx](slides.pptx) or [slides.key](slides.key) or [slides.pdf](slides.pdf) with slides if you use slides for your screencast.
+- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
 
 **You will not get credit for submissions in other file formats.**
 
