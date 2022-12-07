@@ -25,7 +25,7 @@ Be creative!
 
 ## Submission Instructions
 
-Upload your recording to YouTube, link it from your [README.md], and add it to the YouTube playlist given on Canvas.
+Upload your recording to YouTube, link it from your [README.md], and add it to the YouTube playlist given on Canvas. Instructions for contributing to a YouTube playlist are available [here](https://support.google.com/youtube/answer/6109639).
 
 And push the following files in this repository in the this root directory *and* a `.zip` of this repository on Canvas:
 
