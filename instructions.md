@@ -1,8 +1,5 @@
 # Principles and Practice in Programming Languages
-# Mini-Project: Fall 2022
-
-- Draft script due Friday, December 2, 2022
-- Final script and video due Thursday, December 8, 2022 (last day of classes)
+# Mini-Project
 
 ## Overview
 
