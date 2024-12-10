@@ -1,4 +1,4 @@
-# Principles and Practice in Programming Languages
+# Principles of Programming and Programming Languages
 # Mini-Project
 
 See [instructions.md](instructions.md) for submission instructions.
