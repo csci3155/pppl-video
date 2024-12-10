@@ -1,5 +1,5 @@
 # Principles and Practice in Programming Languages
-# Mini-Project: Fall 2022
+# Mini-Project
 
 See [instructions.md](instructions.md) for submission instructions.
 
